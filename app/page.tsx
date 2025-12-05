@@ -1,10 +1,6 @@
 import React from 'react';
-import Accordion from '@/components/Accordion';
-import Carousel from '@/components/Carousel';
-import Header from '@/components/Header';
-import Footer from '@/components/Footer';
-import ScrollTimeline from '@/components/ScrollTimeline';
-import FadeIn from '@/components/FadeIn';
+import { Accordion, Carousel, Header, Footer, ScrollTimeline, FadeIn } from '@/components';
+
 
 export default function Page() {
   return (
@@ -19,7 +15,7 @@ export default function Page() {
           {/* Left Column: Role/Title */}
           <div className="lg:col-span-8 flex flex-col justify-between min-h-[60vh]">
             <FadeIn delay={0.1}>
-              <h1 className="text-[12vw] leading-[0.85] font-black tracking-tighter uppercase break-words">
+              <h1 className="text-[12vw] leading-[0.85] font-black tracking-tighter uppercase wrap-break-words">
                 All<br />
                 about<br />
                 <span className="text-orange-500">me</span><br />
