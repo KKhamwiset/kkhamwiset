@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## About Me
 
-## Getting Started
+Outside of coding, I’m pretty chill. I enjoy games that reward thinking, strong mechanics, or good storytelling. Music is almost always playing while I work — it helps me focus and sets the mood.
 
-First, run the development server:
+I like learning by building, experimenting, and iterating instead of over-planning. If something feels unnecessarily complicated, I’ll usually try to simplify it.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Things I’m Into
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 🎮 Games
+- Single-player and story-driven games  
+- Strategy & simulation  
+- Indie games  
+- Occasionally competitive games  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 🎵 Music
+- Lo-fi  
+- Game soundtracks (OSTs)  
+- Rock  
+- Electronic  
+- Anything that fits the mood while coding  
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## How I Think
+- I prefer simple solutions that actually work  
+- I care a lot about user experience, even for small tools  
+- I value readability over cleverness  
+- I’m calm most of the time, but I lock in when something interests me  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## About This Repo
 
-## Deploy on Vercel
+This repository is a personal space — a place to experiment, build, and express ideas. It’s not meant to be a tutorial or a boilerplate guide.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+If you’re here, you’re probably trying to understand **how I think**, not just what tools I use.
