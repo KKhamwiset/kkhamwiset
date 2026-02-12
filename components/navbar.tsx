@@ -1,8 +1,8 @@
 import Link from "next/link";
 
-export default function Navbar() {
+export default function Navbar({ className }: { className?: string }) {
   return (
-    <div className="navbar bg-base-100 px-6">
+    <div className={`navbar px-6 ${className || "bg-base-100"}`}>
       {/* Left: Brand */}
       <div className="navbar-start">
         <Link href="/" className="btn btn-ghost text-2xl md:text-3xl font-semibold">
